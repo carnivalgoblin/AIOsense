@@ -1,12 +1,12 @@
 substitutions:
-  version: "3.0.1"
+  version: "3.0.2"
 
 esphome:
   name: "${name}"
   friendly_name: "${friendly_name}"
 
   project:
-    name: "Schluggi.AIOsense"
+    name: "CarnivalGoblin.AIOsense"
     version: "${version}"
 
 logger:

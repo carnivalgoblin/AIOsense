@@ -36,7 +36,7 @@ sensor:
     name: "CPU Temperature"
 
 esp32_ble_tracker:
-  scan_parameter:
+  scan_parameters:
     active: false
 
 bluetooth_proxy:
